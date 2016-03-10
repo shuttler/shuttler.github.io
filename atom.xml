@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[iOS Code Blog]]></title>
+  <subtitle><![CDATA[XCoder]]></subtitle>
+  <link href="http://shuttler.github.io/atom.xml" rel="self"/>
+  <link href="http://shuttler.github.io"/>
+  <updated>2013-12-04T06:01:37.837Z</updated>
+  <id>http://shuttler.github.io/</id>
+  <author>
+    <name><![CDATA[NS Devaraj]]></name>
+    <email><![CDATA[nsdevaraj@shuttler.in]]></email>
+  </author>
+  <generator uri="http://zespia.tw/hexo">Hexo</generator>
+  <entry>
+    <title type="html"><![CDATA[BitCoin]]></title>
+    <link href="http://shuttler.github.io/2013/12/04/bitcoin/"/>
+    <id>http://shuttler.github.io/2013/12/04/bitcoin/</id>
+    <published>2013-12-04T05:46:19.000Z</published>
+    <updated>2013-12-04T06:01:17.000Z</updated>
+    <content type="html"><![CDATA[<p>Bit Coin - Bitcoin is an open source peer-to-peer electronic money and payment network <a href="http://en.wikipedia.org/wiki/Bitcoin" target="_blank">Wiki</a>!<br>Bit coins are mined by p2p network resources, till now 12 million bitcoins were mined. <a href="http://blockchain.info/charts/total-bitcoins" target="_blank">Source</a><br>The mining will continue until 21 million bitcoins.</p>
+<p>Merchants have an incentive to accept the bitcoins because transaction fees are lower than the 2 to 3% typically imposed by credit card processors.<br>Speculators have been attracted to Bitcoin, fueling volatility and price swings. </p>
+<p>Current value for bit coin is 1142 USD.<br>Just 2 Months back it was just 141 USD.</p>
+<p>Wordpress and Baidu are some famous vendors accepting Bitcoins apart from contract killers.</p>
+<p>The basis how it works is, as a user you will be given with unique id. Also, every coin have an unique id mapped to user owning it.<br>The whole information is stored across p2p network, including the transaction details.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Learn Tamil Letters]]></title>
+    <link href="http://shuttler.github.io/2013/11/28/hello-world/"/>
+    <id>http://shuttler.github.io/2013/11/28/hello-world/</id>
+    <published>2013-11-28T11:17:31.000Z</published>
+    <updated>2013-11-28T12:03:53.000Z</updated>
+    <content type="html"><![CDATA[<p>Try this <a href="https://sites.google.com/site/tamilletters/" target="_blank">Letters Casino</a>!<br>The Tamil letters are formed by 12 vowels * 18 consonants.<br>This game was done by myself exactly 10 years before.<br>All of a sudden i remembered about this while teaching Tamil to my kid.</p>
+]]></content>
+  </entry>
+</feed>
