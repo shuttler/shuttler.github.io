@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  	$.ajax({
+ method: 'post',
+      url: 'https://www.dropbox.com/1/oauth2/authorize',
+     contentType:"text/plain; charset=dropbox-cors-hack",  
+      data:{
+ 
+      resonse_type:'token',
+      client_id: '6zase,y1ir7imrd9',redirect_uri :"http://shuttler.in/"
+      },
+  
+    success: function(e) { console.log(e); },
+    error: function() { alert('Failed!'); }
+ 
+ 
+ 
+});
+
+});
+</script>
+</head>
+<body>
+
+<p>Page Loaded</p>
+
+
+</body>
+</html>
